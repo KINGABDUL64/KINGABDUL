@@ -1,0 +1,165 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: deepskyblue;
+}
+p {
+    font-size: 50px;
+    color: crimson;
+}
+img {
+    margin: 0 0 0 32%;
+}
+h2 {
+    color: chartreuse;
+    font-size: 45px;
+    font: bold;
+}
+
+
+
+
+
+.starbucks-logo {
+    height: 70px;
+    position: fixed;
+    bottom: 650px;
+}
+
+.line {
+color: white;
+position: fixed;
+bottom: 100px;
+}
+
+.menu {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    position: fixed;
+    left: 135px;
+    top: 20px;
+}
+
+.rewards {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    position: fixed;
+    left: 210px;
+    top: 20px;
+}
+
+.gift-cards {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    position: fixed;
+    left: 310px;
+    top: 20px;
+}
+
+.menu:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.rewards:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.gift-cards:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.location-icon {
+    height: 22px;
+    position: fixed;
+    bottom: 660px;
+    right: 360px;
+}
+
+.find-a-store {
+    font-size: 13px;
+    position: fixed;
+    left: 1169px;
+    top: 30px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+
+.find-a-store:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.location-icon:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.animals:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.sign-in-button {
+    position: fixed;
+    left: 1300px;
+    top: 36px;  
+    border-radius: 100px;
+   width: 80px;
+   height: 33px;
+   background-color: white
+  border-style: solid;
+  border-width: 1px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.sign-in {
+    position: fixed;
+    top: 32.5px;
+    left: 1317px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.sign-in-button:hover {
+    background-color: rgb(229, 229, 229)
+}
+
+.join-now-button {
+    position: fixed;
+    left: 1400px;
+    top: 36px;  
+    border-radius: 100px;
+   width: 90px;
+   height: 33px;
+   background-color: black
+  border-style: solid;
+  border-width: 1px;
+  background-color: black;
+  cursor: pointer;
+}
+
+.join-now {
+    position: fixed;
+    left: 1415px;
+    top: 32px;  
+    color: white;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.join-now-button:hover {
+    background-color: rgb(77, 74, 74)
+}
+
+.couple-pic {
+    height: 600px;
+    width: 700px;
+    margin-top: 80px;
+    margin-left: 35px;
+    cursor: default;
+}
